@@ -1,0 +1,21 @@
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\bin\Debug\PixelDirft_Server.exe.config
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\bin\Debug\PixelDirft_Server.exe
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\bin\Debug\PixelDirft_Server.pdb
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.Properties.Resources.resources
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.GenerateResource.cache
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.exe
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.pdb
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.exe.config
+C:\Users\admin\Documents\VisualStudio\PixelDirft_Server\obj\Debug\PixelDirft_Server.ServerForm.resources
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\bin\Debug\PixelDirft_Server.exe.config
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\bin\Debug\PixelDirft_Server.exe
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\bin\Debug\PixelDirft_Server.pdb
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.AssemblyReference.cache
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.ServerForm.resources
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.Properties.Resources.resources
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.GenerateResource.cache
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.csproj.CoreCompileInputs.cache
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.exe
+D:\Tai_lieu\UIT_Document\LapTrinhMangCanBang\Socket Programming\Duy_Hung_branch\PixelDrift-NT106.Q12-duy_hung\PixelDrift-NT106.Q12-duy_hung\PixelDirft_Server\obj\Debug\PixelDirft_Server.pdb
